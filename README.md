@@ -1,4 +1,4 @@
-# WhileCFG
+# While-CFG FIRST FOLLOW SET AND OP-PREC-TABLE IN C
 Automating the process of finding leading/trailing set from a simple hardcoded <br />
 While loop CFG in C and generating an operator precedence table from the sets <br />
 The Context Free grammar taken is <br />
